@@ -72,7 +72,8 @@ int main()
 	printf("**********************************");
 	gotoxy(20, 7);
 
-	printf("DEVELOPER-SHAHRIAR ALI SHUSOM\n \n ");
+	printf("AI engineering -SHAHRIAR ALI SHUSOM\n \n ");
+	printf("\n \n ");
 
 	gotoxy(20, 10);
 	printf("1.CREATE A BANK ACCOUNT");
